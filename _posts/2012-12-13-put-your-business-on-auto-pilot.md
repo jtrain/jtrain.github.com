@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: post
 published: true
+comments: true
+author: Jervis Whitley
 ---
 
 # How does it work?
