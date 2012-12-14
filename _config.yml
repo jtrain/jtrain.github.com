@@ -11,12 +11,13 @@ prose:
   rooturl: "_posts"
   metadata: 
     "_posts": |
-      published: false
-      layout: post
       title: Your Post Title
-      image: link-to-image.png
       abstract: Short summary of your article.
-      author_twitter: procedureus
-      author: Jervis Whitley
+      image: http://www.example.com/link-to-image.png
+      published: false
       categories:
       - automating
+      author: Jervis Whitley
+      author_twitter: procedureus
+      comments:true
+      layout: post
