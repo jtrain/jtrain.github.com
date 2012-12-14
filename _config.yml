@@ -10,12 +10,13 @@ exclude:
 prose:
   rooturl: "_posts"
   metadata: 
-    _posts/: |
+    "_posts": |
       published: false
       layout: post
       title: Your Post Title
+      image: link-to-image.png
       abstract: Short summary of your article.
-      author_twitter: johndoe
-      author: John Doe
+      author_twitter: procedureus
+      author: Jervis Whitley
       categories:
-      - articles
+      - automating
