@@ -1,7 +1,8 @@
 auto: true
 server: true
-permalink: none
+permalink: /:year/:month/:title/
 baseurl: "/blog"
+future: false
 exclude:
 - .gitignore
 - README.md
@@ -9,9 +10,9 @@ exclude:
 prose:
   rooturl: "_posts"
   metadata: 
-    _posts/articles: |
+    _posts/: |
       published: false
-      layout: article
+      layout: post
       title: Your Post Title
       abstract: Short summary of your article.
       author_twitter: johndoe
