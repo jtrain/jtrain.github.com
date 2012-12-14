@@ -1,18 +1,20 @@
 ---
 layout: default
 ---
+  <article>
+    <h3><a href="#">{{post.title}}</a></h3>
+    <h6>Written by <a href="#">{{post.author}}</a> on {{post.date | date: "%B %d, %Y"}}.</h6>
 
-<div class="intro">
-    <div class="title">{{page.title}}</div>
-    <div class="abstract">{{page.abstract}}</div>
-    <div class="meta">Posted by {{page.author}}</div>
-
-
-<div class="article-wrapper">
-    <div class="post-content">
-        {{ content }}
+    <div class="row">
+      <div class="six columns">
+        {{post.abstract}}
+      </div>
+      <div class="six columns">
+        <img src="http://placehold.it/400x240&text=[img]" />
+      </div>
     </div>
-</div>
+    {{ post.content }}
+  </article> 
 
 {% if page.comments %}
     <div id="disqus_thread" class="post-content"></div>

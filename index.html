@@ -2,25 +2,22 @@
 layout: default
 ---
 
-<div class="article-navigation">
-  {% for post in site.posts limit:40 offset:0 %}
-    <a class="article-link" href="{{site.baseurl}}{{post.url}}" title="{{post.title}}">
-      
-    </a>
-  {% endfor %}
-</div>
-
 {% for post in site.posts limit:3 offset:0 %}
-  <div class="intro">
-    <div class="title">{{post.title}}</div>
-    <div class="abstract">{{post.abstract}}</div>
-    <div class="meta"> Posted by <a href="http://twitter.com/{{post.author_twitter}}">{{post.author}}</a> on {{ post.date | date: "%B %d, %Y" }} </div>
-  </div>
+  <article>
 
-  <div class="article-wrapper">
-    <div class="help post-content">
-      {{ post.content }}
+    <h3><a href="#">{{post.title}}</a></h3>
+    <h6>Written by <a href="#">{{post.author}}</a> on {{  post.date | date: "%B %d, %Y" }}.</h6>
+
+    <div class="row">
+      <div class="six columns">
+        {{post.abstract}}
+      </div>
+      <div class="six columns">
+        <img src="http://placehold.it/400x240&text=[img]" />
+      </div>
     </div>
-  </div>
+    {{ post.content }}
+  </article>
+  <hr/>
 {% endfor %}
 
