@@ -18,8 +18,8 @@ layout: default
     <div id="disqus_thread" class="post-content"></div>
     <script type="text/javascript">
         var disqus_shortname = 'procedureus'; 
-        var disqus_identifier = '{{ page.url }}';
-        var disqus_url = 'http://www.procedureus.com/blog/{{page.url}}';
+        var disqus_identifier = '{{site.baseurl}}{{ page.url }}';
+        var disqus_url = 'http://www.procedureus.com{{site.baseurl}}{{page.url}}';
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
             dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
