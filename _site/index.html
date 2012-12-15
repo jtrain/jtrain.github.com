@@ -1,53 +1,242 @@
 <!DOCTYPE html>
-<html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
-  <meta charset='UTF-8'/>
-  <title>Putting your Business on AutoPilot - ProcedureUs</title>
-  <link rel='shortcut icon' href='/blog/images/favicon.ico' type='image/x-icon' />
-  <link rel='stylesheet' href='/blog/fonts/open-sans.css'>
-  <link rel='stylesheet' href='/blog/app.css'>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <title>Productivity tips to grow your business ProcedureUs Blog</title>
+
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="/blog/stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="/blog/stylesheets/foundation.min.css">
+  <link rel="stylesheet" href="/blog/stylesheets/app.css">
+
+  <script src="/blog/javascripts/modernizr.foundation.js"></script>
 </head>
 <body>
-  <div id='container'>
 
-    <div id="header">
-      <div class="navigation">
-        <a href="/" class="title">ProcedureUs</a>
-        <a href="/blog/" class="title">Blog</a>
+  <!-- Nav Bar -->
+
+  <div class="row">
+    <div class="twelve columns">
+      <h1>ProcedureUs Blog <small>productivity tips to grow your business</small>
+      <hr />
+    </div>
+  </div>
+
+  <!-- End Nav -->
+
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="nine columns" role="content">
+      
+  <article>
+
+    <h3><a href="/blog/post-two/">Your Post Title</a></h3>
+    <h6><a href="http://twitter.com/procedureus">Jervis Whitley</a> on December 14, 2012.</h6>
+
+    <div class="row">
+      <div class="six columns">
+        
+          Short summary of your article.
+        
+      </div>
+
+      
+        <div class="six columns">
+          <img src="http://www.example.com/link-to-image.png" />
+        </div>
+      
+
+    </div>
+    <a href="/blog/post-two/" class="button medium">Read more &rarr;</a>
+  </article>
+  <hr/>
+
+  <article>
+
+    <h3><a href="/blog/post-three/">Your Post Title</a></h3>
+    <h6><a href="http://twitter.com/procedureus">Jervis Whitley</a> on December 14, 2012.</h6>
+
+    <div class="row">
+      <div class="six columns">
+        
+          Short summary of your article.
+        
+      </div>
+
+      
+        <div class="six columns">
+          <img src="http://www.example.com/link-to-image.png" />
+        </div>
+      
+
+    </div>
+    <a href="/blog/post-three/" class="button medium">Read more &rarr;</a>
+  </article>
+  <hr/>
+
+  <article>
+
+    <h3><a href="/blog/post-four/">Your Post Title</a></h3>
+    <h6><a href="http://twitter.com/procedureus">Jervis Whitley</a> on December 14, 2012.</h6>
+
+    <div class="row">
+      <div class="six columns">
+        
+          Short summary of your article.
+        
+      </div>
+
+      
+        <div class="six columns">
+          <img src="http://www.example.com/link-to-image.png" />
+        </div>
+      
+
+    </div>
+    <a href="/blog/post-four/" class="button medium">Read more &rarr;</a>
+  </article>
+  <hr/>
+
+
+<div id="pagination">
+  <ul class="pagination">
+
+    
+      <li class="previous unavailable">
+        <span>&laquo;</span>
+      </li>
+    
+
+    <li class="page current">
+      
+      <span class="current-page">1</span>
+      
+    </li>
+
+    
+    <li class="page ">
+      
+      <a href="/blog/page2/">2</a>
+      
+    </li>
+    
+
+    
+      <li class="next">
+        <a href="/blog/page2/">&raquo;</a>
+      </li>
+    
+  </ul>
+
+</div>
+
+
+    </div>
+
+    <!-- End Main Content -->
+
+
+    <!-- Sidebar -->
+
+    <aside class="three columns">
+
+      <h5>Recent Posts</h5>
+      <ul class="side-nav">
+      
+        <li><a href="/blog/post-two/">Your Post Title</a></li>
+      
+        <li><a href="/blog/post-three/">Your Post Title</a></li>
+      
+        <li><a href="/blog/post-four/">Your Post Title</a></li>
+      
+        <li><a href="/blog/put-your-business-on-auto-pilot/">Put Your Business On Auto Pilot</a></li>
+      
+      </ul>
+      <hr/>
+
+      <div class="try-procedureus">
+        <a href="/" class="button primary large">Try ProcedureUs</a>
+      </div>
+      <hr/>
+
+    </aside>
+
+    <!-- End Sidebar -->
+  </div>
+
+  <!-- End Main Content and Sidebar -->
+
+
+  <!-- Footer -->
+
+  <footer class="row">
+    <div class="twelve columns">
+      <hr />
+      <div class="row">
+        <div class="six columns">
+          <p>&copy; Copyright whit. 2012.</p>
+        </div>
+        <div class="six columns">
+          <ul class="link-list right">
+            <li><a href="/">Try ProcedureUs</a></li>
+            <li><a href="/blog/">Blog</a></li>
+            <li><a href="/procedures/">Example Procedures</a></li>
+          </ul>
+        </div>
       </div>
     </div>
+  </footer>
 
-    <div id='main'><div class="article-navigation">
+  <!-- End Footer -->
+
+  <!-- Included JS Files (Uncompressed) -->
+  <!--
   
-    <a class="article-link" href="/blog/2012/12/put-your-business-on-auto-pilot/" title="Put Your Business On Auto Pilot">
-      
-    </a>
+  <script src="javascripts/jquery.js"></script>
   
-</div>
-
-
-  <div class="intro">
-    <div class="title">Put Your Business On Auto Pilot</div>
-    <div class="abstract"></div>
-    <div class="meta"> Posted by <a href="http://twitter.com/">Jervis Whitley</a> on December 13, 2012 </div>
-  </div>
-
-  <div class="article-wrapper">
-    <div class="help post-content">
-      <h1 id='how_does_it_work'>How does it work?</h1>
-
-<p>Enter Text in Markdown format.</p>
-    </div>
-  </div>
-
-
-</div>
-  </div>
-
-  <div id='footer'>
-    <div class="footer-content">
-      Made by <a href="http://developmentseed.org">Development Seed</a>, Source Code on <a href="http://github.com/prose/bootstrap">GitHub</a>
-    </div>
-  </div>
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  -->
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/blog/javascripts/jquery.js"></script>
+  <script src="/blog/javascripts/foundation.min.js"></script>
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/blog/javascripts/app.js"></script>
+  
 </body>
 </html>
