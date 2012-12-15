@@ -2,21 +2,21 @@
 layout: default
 ---
   <article>
-    <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-    <h6>Written by {% if post.author_twitter %}<a href="http://twitter.com/{{ post.author_twitter}}">{% endif %}{{post.author}}{% if post.author_twitter %}</a>{% endif %} on {{post.date | date: "%B %d, %Y"}}.</h6>
+    <h3><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></h3>
+    <h6>Written by {% if page.author_twitter %}<a href="http://twitter.com/{{page.author_twitter}}">{% endif %}{{page.author}}{% if page.author_twitter %}</a>{% endif %} on {{page.date | date: "%B %d, %Y"}}.</h6>
 
-    {% if post.image %}
+    {% if page.image %}
         <div class="row">
             <div class="six columns">
-                <img src="{{post.image}}" />
+                <img src="{{page.image}}" />
             </div>
         </div>
     {% endif %}
-    {{ post.content }}
+    {{ page.content }}
   </article> 
 
 {% if page.comments %}
-    <div id="disqus_thread" class="post-content"></div>
+    <div id="disqus_thread" class="page-content"></div>
     <script type="text/javascript">
         var disqus_shortname = 'procedureus'; 
         var disqus_identifier = '{{site.baseurl}}{{ page.url }}';
