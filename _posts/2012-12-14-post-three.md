@@ -5,7 +5,7 @@ image: "http://www.example.com/link-to-image.png"
 published: true
 author: Jervis Whitley
 author_twitter: procedureus
-comments:true
+comments: true
 layout: post
 categories:
 - automating
