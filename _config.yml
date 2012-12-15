@@ -6,6 +6,7 @@ future: false
 exclude:
 - .gitignore
 - README.md
+paginate:3
 
 prose:
   rooturl: "_posts"

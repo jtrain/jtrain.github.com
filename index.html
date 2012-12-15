@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts limit:3 offset:0 %}
+{% for post in paginator.posts %}
   <article>
 
     <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
@@ -28,4 +28,28 @@ layout: default
   </article>
   <hr/>
 {% endfor %}
+
+<div id="pagination">
+  <ul class="pagination">
+
+    <li class="page {% if paginator.page == 1 %}current{% endif %}">
+      {% if paginator.page == 1 %}
+      <span class="current-page">1</span>
+      {% else %}
+      <a href="/">1</a>
+      {% endif %}
+    </li>
+
+    {% for count in (2..paginator.total_pages) %}
+    <li class="page {% if count == paginator.page %}current{% endif %}">
+      {% if count == paginator.page %}
+      <span class="current-page">{{count}}</span>
+      {% else %}
+      <a href="/page{{count}}">{{count}}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
 
