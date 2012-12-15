@@ -63,14 +63,17 @@
 
     <aside class="three columns">
 
-      <h5>Categories</h5>
+      <h5>Recent Posts</h5>
       <ul class="side-nav">
-        <li><a href="#">News</a></li>
-        <li><a href="#">Code</a></li>
-        <li><a href="#">Design</a></li>
-        <li><a href="#">Fun</a></li>
-        <li><a href="#">Weasels</a></li>
+      {% for post in site.posts limit:5 offset:0 %}
+        <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
+      {% endfor %}
       </ul>
+      <hr/>
+
+      <div class="try-procedureus">
+        <a href="/" class="button primary large">Try ProcedureUs &rarr;</a>
+      </div>
 
       <div class="panel">
         <h5>Featured</h5>
