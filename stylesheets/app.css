@@ -17,6 +17,14 @@
     margin-top: 20px;
 }
 
+#pagination ul.pagination li {
+    float: none;
+    display:inline-block;
+}
+
+#pagination ul.pagination li a{
+    color: inherit;
+}
 
 /* -----------------------------------------
    Page Name 1

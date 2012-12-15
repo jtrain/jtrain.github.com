@@ -32,6 +32,20 @@ layout: default
 <div id="pagination">
   <ul class="pagination">
 
+    {% if paginator.previous_page %}
+      <li class="previous">
+        {% if paginator.previous_page == 1 %}
+          <a href="{{site.baseurl}}/">&laquo;</a>
+        {% else %}
+          <a href="{{site.baseurl}}/page{{paginator.previous_page}}/">&laquo;</a>
+        {% endif %}
+      </p>
+    {% else %}
+      <li class="previous unavailable">
+        <span>&laquo;</span>
+      </li>
+    {% endif %}
+
     <li class="page {% if paginator.page == 1 %}current{% endif %}">
       {% if paginator.page == 1 %}
       <span class="current-page">1</span>
@@ -49,6 +63,16 @@ layout: default
       {% endif %}
     </li>
     {% endfor %}
+
+    {% if paginator.next_page %}
+      <li class="next">
+        <a href="{{site.baseurl}}/page{{paginator.next_page}}/">&raquo;</a>
+      </li>
+    {% else %}
+      <li class="next unavailable">
+        <span>&raquo;</span>
+      </li>
+    {% endif %}
   </ul>
 
 </div>
