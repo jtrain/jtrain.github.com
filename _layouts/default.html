@@ -13,7 +13,7 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
-  <title>{{page.title}} ProcedureUs</title>
+  <title>{% if page.title %}{{page.title}}{% else %}Productivity tips to grow your business{% endif %} ProcedureUs Blog</title>
 
   <!-- Included CSS Files (Uncompressed) -->
   <!--
@@ -32,14 +32,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <ul class="nav-bar">
-        <li><a href="#">Link 1</a></li>
-        <li><a href="#">Link 2</a></li>
-        <li><a href="#">Link 3</a></li>
-        <li><a href="#">Link 4</a></li>
-      </ul>
-
-      <h1>Blog <small>This is my blog. It's awesome.</small>
+      <h1>ProcedureUs Blog <small>productivity tips to grow your business</small>
       <hr />
     </div>
   </div>
@@ -74,12 +67,7 @@
       <div class="try-procedureus">
         <a href="/" class="button primary large">Try ProcedureUs</a>
       </div>
-
-      <div class="panel">
-        <h5>Featured</h5>
-        <p>Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow.</p>
-        <a href="#">Read More &rarr;</a>
-      </div>
+      <hr/>
 
     </aside>
 
@@ -96,14 +84,13 @@
       <hr />
       <div class="row">
         <div class="six columns">
-          <p>&copy; Copyright no one at all. Go to town.</p>
+          <p>&copy; Copyright whit. 2012.</p>
         </div>
         <div class="six columns">
           <ul class="link-list right">
-            <li><a href="#">Link 1</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li>
-            <li><a href="#">Link 4</a></li>
+            <li><a href="/">Try ProcedureUs</a></li>
+            <li><a href="{{site.baseurl}}/">Blog</a></li>
+            <li><a href="/procedures/">Example Procedures</a></li>
           </ul>
         </div>
       </div>
