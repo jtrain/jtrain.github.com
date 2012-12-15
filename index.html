@@ -6,7 +6,7 @@ layout: default
   <article>
 
     <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-    <h6>{% if post.author_twitter %}<a href="http://twitter.com/{{ post.author_twitter}}">{% endif %}{{post.author}}{% if post.author_twitter %}</a>{% endif %} on {{  post.date | date: "%B %d, %Y" }}.</h6>
+    <h6>{% if post.author_twitter %}<a href="http://twitter.com/{{ post.author_twitter}}">{% endif %}{{post.author}}{% if post.author_twitter %}</a>{% endif %} on {{ post.date | date: "%B %d, %Y" }}.</h6>
 
     <div class="row">
       <div class="six columns">
