@@ -17,13 +17,16 @@
     margin-top: 20px;
 }
 
+#pagination ul.pagination {
+    text-align: center;
+}
 #pagination ul.pagination li {
     float: none;
     display:inline-block;
 }
 
 #pagination ul.pagination li a{
-    color: inherit;
+    color: #2BA6CB;
 }
 
 /* -----------------------------------------
