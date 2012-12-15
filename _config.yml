@@ -2,11 +2,11 @@ auto: true
 server: true
 permalink: /:title/
 baseurl: "/blog"
+paginate: 3
 future: false
 exclude:
 - .gitignore
 - README.md
-paginate:3
 
 prose:
   rooturl: "_posts"
