@@ -36,4 +36,4 @@ Why don't we all write down in a blog or Word document somewhere the problems we
 ####Why can't everyone else follow those steps too?
 Let's build a place where business owners can learn from the steps written by other business owners. A place to search and find complete steps for any administrative task. 
 
-I invite you to join us on [procedureus.com](procedureus.com) and share your business processes. Together let's get business done faster.
+I invite you to join us on [procedureus.com](https://www.procedureus.com) and share your business processes. Together let's get business done faster.
