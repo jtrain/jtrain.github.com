@@ -19,7 +19,7 @@ prose:
     "_posts": |
       title: ""
       abstract: ""
-      image: ""
+      image: "http://www.example.com/images/image.jpg"
       published: false
       author: jervis
       comments: true

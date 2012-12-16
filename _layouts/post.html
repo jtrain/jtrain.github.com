@@ -5,7 +5,9 @@ layout: default
     <h3><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></h3>
     {% include author.html %}
     <hr />
-    {% if page.image %}
+
+    {% if page.image == '' or page.image contains 'example.com' %}
+    {% else %}
         <div class="row">
             <div class="six columns">
                 <img src="{{page.image}}" />
