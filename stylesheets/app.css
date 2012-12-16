@@ -63,7 +63,7 @@ img.author {
 article {
   margin-bottom: 100px;
 }
-article p {
+article p, article ul {
   color: #444;
 }
 article img {
