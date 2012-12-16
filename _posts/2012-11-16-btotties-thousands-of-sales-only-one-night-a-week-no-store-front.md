@@ -1,8 +1,8 @@
 ---
-title: ""
-abstract: ""
-image: "http://www.example.com/images/image.jpg"
-published: false
+title: "How did two cousins make thousands of sales, without a storefront, working only one night a week?"
+abstract: "Lucy Simms and Amanda Cordner are co-founders of B’totties, selling shorts that encapsulate the summer spirit of fun and frivolity all year round. I met with them both in a quiet-ish corner of a bar on Southbank, Melbourne to learn about how they quickly grew their company to reach thousands of sales."
+image: "http://2.bp.blogspot.com/-hrDkQIB-9SA/TzMOpfQYLiI/AAAAAAAAAE4/SKBYIznpi0w/s320/About+Us+1+-+website.jpg"
+published: true
 author: jervis
 comments: true
 layout: post
@@ -17,8 +17,6 @@ Here we discuss the secrets behind the B'totties success. If you are in the mood
 
 ####Picking the right co-founder
 Amanda and Lucy had just finished uni and were living together. Despite graduating and working in different fields, they would talk about how they would love to one day run their own business. What was idle talk began to take form during a beach holiday when Lucy, wearing a pair of colourful shorts her mother made, received a series of compliments about her unique shorts. That was all they needed to decide, then and there, to chase this idea down.
-![Amanda Cordner and Lucy Simms,
-co-founders of B'totties](http://2.bp.blogspot.com/-hrDkQIB-9SA/TzMOpfQYLiI/AAAAAAAAAE4/SKBYIznpi0w/s320/About+Us+1+-+website.jpg)
 
 ####Your business plan doesn’t have to be so fancy
 The planning and research consisted of a spreadsheet, detailing only the essentials of profit and loss. They estimated how much the shorts would cost to manufacture and how much they could sell them for before concluding the business could turn a profit. By focusing on the essentials of the business, the pair were able to avoid the common pitfall of analysis paralysis and move on to the implementation of the plan.
@@ -34,6 +32,7 @@ It took nine months from first idea to flicking the switch on the website to beg
 
 ####To continue the sales you need to find your niche
 Selling to friends and family is a great start, but further sales are dependent on identifying who your customer is. Who are the people that will do anything to get their hands on your product and are willing to pay? Amanda and Lucy tried selling at schools, markets and other places before discovering they belonged on the beach. Their beach going customers now represent the core of their repeat business and provide a base for them to expand into other areas like a range for kids.
+![](http://2.bp.blogspot.com/-lzO5o9gHbFU/TzMOsxWgsiI/AAAAAAAAAFA/NoZ0YvBr6Io/s320/surf3.jpg)
  
 ####Getting it wrong sometimes is alright
 Not everything needs to work out according to plan for you to succeed. The pair have tried sponsoring some Melbourne swim meets and not sold any shorts. Some of their media releases aren’t picked up by newspapers or online. The important thing is to learn from your mistakes, why didn’t the sponsorship work? Why didn’t the newspapers pick up that story? Look carefully at these failures and make adjustments for next time.
