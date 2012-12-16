@@ -18,12 +18,12 @@ This is an edited transcription of their interview. We have also published a sho
 ####Before B’totties
 We were living together at the time. So that always makes it easier. We had very different careers but very similar business minds. We figured that out living with each other. 
 
-We used to talk about our new jobs having just finished uni. These companies [our employers] are making a fortune out of us, and paying us nothing. Wouldn’t it be great to have something of our own? 
+We used to talk about our new jobs having just finished uni. These companies \[our employers\] are making a fortune out of us, and paying us nothing. Wouldn’t it be great to have something of our own? 
 
-We were both definitely entrepreneurial before starting B’totties. It was going to be a different challenge for us. We knew it would be unlike any other job, and it never has been like a "job"; if it was [like any other job], it would have dissolved by now. 
+We were both definitely entrepreneurial before starting B’totties. It was going to be a different challenge for us. We knew it would be unlike any other job, and it never has been like a "job"; if it was \[like any other job\], it would have dissolved by now. 
 
 ####An idea born on a beach holiday
-We were on a holiday one year, and I [Lucy] had shorts that were very similar to the ones that we sell now. My Mum had made them for me. And I always used to get comments about these shorts, and I loved them. We were on holiday and someone made a comment once and I think we just said lets do it. From that day we put plans together and started going for it. 
+We were on a holiday one year, and I \[Lucy\] had shorts that were very similar to the ones that we sell now. My Mum had made them for me. And I always used to get comments about these shorts, and I loved them. We were on holiday and someone made a comment once and I think we just said lets do it. From that day we put plans together and started going for it. 
 
 ####Our first step
 We put together a business plan, but had zero idea where to even start, didn’t have a clue. We had some conversations about where is the gap in the market. How did Peter Alexander come in and do a backyard job in the garage and now he’s selling his company for $40 million bucks, and we thought we could do that.
@@ -57,11 +57,11 @@ Of course when we went live my sister had to be the first one to online and buy 
 We sold quite a few during that week, I think it spread. Word spread between all of us and our family who were saying, “our girls made this”. We used Facebook, sent it out to everyone that we knew. People who were close to us were really helpful and sent it on. Our Uncle is a sales director at a company and he sent it to the whole building. AU-Sales, bang the whole building just got the email so it spread like wildfire really.
 ![](http://1.bp.blogspot.com/-rKJ5q1gZ-9w/TzMSKhioMHI/AAAAAAAAAFQ/Br4eifkfw4c/s320/surf1.jpg)
 
-So that month we were spending every night packing to meet all of these orders. Our back room was getting full. We needed a lot of room to store the fabric and elastic, store the shorts and store all of their files. A fair chunk of those early orders was through word of mouth only. Word of mouth was a key thing for that [2009] year. 
+So that month we were spending every night packing to meet all of these orders. Our back room was getting full. We needed a lot of room to store the fabric and elastic, store the shorts and store all of their files. A fair chunk of those early orders was through word of mouth only. Word of mouth was a key thing for that \[2009\] year. 
 
 Then we needed to extend our reach. Because we were from the surf coast we decided to get in touch with the surf clubs and said, “we are beachy and from that kind of area”. We put calls out to everyone, to schools, but the surf clubs were really the ones that responded. 
 
-We knew the surf club at Point Lonsdale, [and at] the other clubs, we knew who to call and they would get our details and put in a word for us. We’d call them and say we’re so and so’s mate we’ve been Point Lonsdale girls forever. The Point Lonsdale connection helped us, and from it we sponsored their Swim Classic Event. It went so well, we could then use it as a sell story to other clubs. We put together little fliers, saying this is what we did, how the swimmers loved it,  putting their B’totties over their bathers after the swim. 
+We knew the surf club at Point Lonsdale, \[and at\] the other clubs, we knew who to call and they would get our details and put in a word for us. We’d call them and say we’re so and so’s mate we’ve been Point Lonsdale girls forever. The Point Lonsdale connection helped us, and from it we sponsored their Swim Classic Event. It went so well, we could then use it as a sell story to other clubs. We put together little fliers, saying this is what we did, how the swimmers loved it,  putting their B’totties over their bathers after the swim. 
 
 Thats how we got our loyal base. People come to swim there every year and they see us there and they love our shorts. Every year 50% of the people that buy, come because they have worn their last ones the entire year. 
 
@@ -70,14 +70,14 @@ The personality of B’totties was bright, fun and summer and that fit in really
 No one else was selling anything like us at the beach, just wetsuits and boardshorts; nothing else. Holiday makers are there to spend money and the shop that stocks us keep calling to ask for more because they had sold out. These holidaymakers are paying retail prices but they don’t care because they just love the shorts. The shops are ideal for us; we give them stock when they need it, and in turn get a cheque at the end of the month.
 
 ####Here is how to get featured in the media
-We proactively staged media attention. We do little PR releases, get photos, do a little spiel, make it look pretty and just email it. [We have emailed it] to The Age, the Herald Sun, the Geelong Advertiser all the local newsletters. If we get a bite and the story is published then we get free advertising. 
+We proactively staged media attention. We do little PR releases, get photos, do a little spiel, make it look pretty and just email it. \[We have emailed it\] to The Age, the Herald Sun, the Geelong Advertiser all the local newsletters. If we get a bite and the story is published then we get free advertising. 
 
 I don’t know if that gets us any real sales. 
 
 ####A typical day at a Swim Event
 We only sponsor the open water swim events a few weekends in the year, four or five of them. Early in the morning we load up the car, tables, shorts, deck chairs, suncream and food. This year we have the B’totties flag which has been a real winner - a massive winner. Then we drive.
 ![](http://2.bp.blogspot.com/-td4dSK4Mgq8/TzMSXvBbTcI/AAAAAAAAAFY/WTv37ZD6sns/s320/Main+Kids+page.jpg)
-If there is an MC we go and give him a pair, make friends with him, and then give him a script about B’totties. [We] then try to 'get in' with as many people as we can. As soon as [the MC] mentions us or reads our script we start going crazy so people know that he is talking about us. There is a cafe on the street which is where all of the people go and is very well known in Point Lonsdale. All day it is chockers, even more-so when the swim event is on. This year we went in and got the waitresses, all the girls, to wear B’totties all day. That is the key. For people to be seen in them.
+If there is an MC we go and give him a pair, make friends with him, and then give him a script about B’totties. \[We\] then try to 'get in' with as many people as we can. As soon as \[the MC\] mentions us or reads our script we start going crazy so people know that he is talking about us. There is a cafe on the street which is where all of the people go and is very well known in Point Lonsdale. All day it is chockers, even more-so when the swim event is on. This year we went in and got the waitresses, all the girls, to wear B’totties all day. That is the key. For people to be seen in them.
 
 And when people buy them we encourage them to put them on right then. Because as soon as people see other people wearing them, they look around to find where they can get some. It just spreads like wildfire. So we put out the call before hand to everyone that has a pair to come down and wear their B’totties, that is the key to a successful day on the beach. 
 
