@@ -1,6 +1,6 @@
 ---
 title: "How to pay your employee superannation with REST"
-abstract: ""
+abstract: "Next time we pay our employee super, we are going to pull up this post and follow the guide."
 image: ""
 published: true
 author: jervis
