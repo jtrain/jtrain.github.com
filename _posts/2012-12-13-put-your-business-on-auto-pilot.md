@@ -3,6 +3,7 @@ layout: post
 published: true
 comments: true
 author: jervis
+image: ""
 ---
 
 ### How does it work?
