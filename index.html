@@ -6,19 +6,20 @@ layout: default
   <article>
 
     <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-    <h6>{% if post.author_twitter %}<a href="http://twitter.com/{{ post.author_twitter}}">{% endif %}{{post.author}}{% if post.author_twitter %}</a>{% endif %} on {{ post.date | date: "%B %d, %Y" }}.</h6>
-
+    {% include author.html %}
+    <hr>
     <div class="row">
       <div class="six columns">
         {% if post.abstract %}
-          {{post.abstract}}
+          <p>{{post.abstract}}</p>
         {% else %}
           {{post.content}}
         {% endif %}
       </div>
 
-      {% if post.image %}
-        <div class="six columns">
+      {% if post.image == '' or post.image contains "example.com" %}
+      {% else %}
+        <div class="six columns th">
           <img src="{{ post.image }}" />
         </div>
       {% endif %}

@@ -2,9 +2,9 @@
 layout: post
 published: true
 comments: true
-author: Jervis Whitley
+author: jervis
 ---
 
-# How does it work?
+### How does it work?
 
 Enter Text in Markdown format.

@@ -1,0 +1,17 @@
+{% if page.author %}
+    {% assign author = site.authors[page.author] %}
+    {% assign post_date = page.date %}
+{% else %}
+    {% assign author = site.authors[post.author] %}
+    {% assign post_date = post.date %}
+{% endif %}
+
+{% if author.image %}
+    <img class="author left" src="{{author.image}}" alt="{{author.name}}" height="64" width="64">
+    <div class="author-text column">
+        <p>{% if author.twitter %}<a href="http://twitter.com/{{author.twitter}}">{% endif %}{{author.name}}{% if author.twitter %}</a>{% endif %}<br>{{ post_date | date: "%B %d, %Y" }}</p>
+    </div>
+{% else %}
+    <h6>{% if author.twitter %}<a href="http://twitter.com/{{author.twitter}}">{% endif %}{{author.name}}{% if author.twitter %}</a>{% endif %}, {{ post_date | date: "%B %d, %Y" }}</h6>
+{% endif %}
+  

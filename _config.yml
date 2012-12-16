@@ -7,6 +7,11 @@ future: false
 exclude:
 - .gitignore
 - README.md
+authors:
+      jervis: 
+        name: Jervis Whitley
+        twitter: procedureus
+        image: "http://www.gravatar.com/avatar/b91d2723388aa767754504a96d95a722.png"
 
 prose:
   rooturl: "_posts"
@@ -16,8 +21,7 @@ prose:
       abstract: ""
       image: ""
       published: false
-      author: Jervis Whitley
-      author_twitter: procedureus
+      author: jervis
       comments: true
       layout: post
       categories:

@@ -3,7 +3,8 @@ layout: default
 ---
   <article>
     <h3><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></h3>
-    <h6>{% if page.author_twitter %}<a href="http://twitter.com/{{ page.author_twitter}}">{% endif %}{{page.author}}{% if page.author_twitter %}</a>{% endif %} on {{ page.date | date: "%B %d, %Y" }}.</h6>
+    {% include author.html %}
+    <hr />
     {% if page.image %}
         <div class="row">
             <div class="six columns">
