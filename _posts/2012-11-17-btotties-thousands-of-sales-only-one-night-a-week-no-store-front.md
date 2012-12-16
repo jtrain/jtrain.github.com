@@ -13,7 +13,7 @@ categories:
 
 Lucy Simms and Amanda Cordner are co-founders of B’totties, selling shorts that encapsulate the summer spirit of fun and frivolity all year round. I met with them both in a quiet-ish corner of a bar on Southbank, Melbourne to learn about how they quickly grew their company to reach thousands of sales.
 
-Here we discuss the secrets behind the B'totties success. If you are in the mood to read an edited transcription of the interview you can find that [here]({% post_url 2012-11-16-btotties-thousands-of-sales-without-a-storefront %}).
+Here we discuss the secrets behind the B'totties success. If you are in the mood to read an edited transcription of the interview you can find that [here](/blog/btotties-thousands-of-sales-without-a-storefront/).
 
 ####Picking the right co-founder
 Amanda and Lucy had just finished uni and were living together. Despite graduating and working in different fields, they would talk about how they would love to one day run their own business. What was idle talk began to take form during a beach holiday when Lucy, wearing a pair of colourful shorts her mother made, received a series of compliments about her unique shorts. That was all they needed to decide, then and there, to chase this idea down.
@@ -39,4 +39,4 @@ Not everything needs to work out according to plan for you to succeed. The pair 
 
 Thanks to Lucy and Amanda for telling your story. If you would love a fun pair of shorts for the beach, your next big swim or a gift check out [www.btotties.com.au](http://www.btotties.com.au).
 
-Read an edited transcription of the interview here.
+Read an edited transcription of the interview [here](/blog/btotties-thousands-of-sales-without-a-storefront/).
