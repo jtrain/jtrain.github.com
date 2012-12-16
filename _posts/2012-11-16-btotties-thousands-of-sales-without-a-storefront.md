@@ -37,7 +37,7 @@ We both put in how much we thought we could afford at the time, and what we thou
 ####Iterate the design
 We had to work out A) where to buy the fabric from and B) we didn’t have a pattern (we didn't even know you needed a pattern) to make shorts. We thought, “oh what’s a pattern - we need to find a pattern maker”. We went to Spotlight and bought 10 m of spotty fabric. Then we searched out and contacted three manufacturers through referrals from family and friends. 
 
-!(having fun in btotties)[http://1.bp.blogspot.com/-0NRtB_SnPuA/TzMSgFIz_eI/AAAAAAAAAFg/ZQMWU62n-xo/s320/TOT.JPG]
+![having fun in btotties](http://1.bp.blogspot.com/-0NRtB_SnPuA/TzMSgFIz_eI/AAAAAAAAAFg/ZQMWU62n-xo/s320/TOT.JPG)
 
 We went to meet the manufacturers with the original shorts and asked how much it would cost to make. We never considered making these ourselves because we didn’t have the time. Although every second person asks whether or not we had sewn them ourselves. All manufacturers were based in Melbourne so we could get out and meet them. We narrowed them down to two and we asked if they could give a pattern. One offered to give patterns in a couple of sizes.
 
@@ -55,6 +55,7 @@ Of course when we went live my sister had to be the first one to online and buy 
 
 ####Reaching out to new customers
 We sold quite a few during that week, I think it spread. Word spread between all of us and our family who were saying, “our girls made this”. We used Facebook, sent it out to everyone that we knew. People who were close to us were really helpful and sent it on. Our Uncle is a sales director at a company and he sent it to the whole building. AU-Sales, bang the whole building just got the email so it spread like wildfire really.
+![](http://1.bp.blogspot.com/-rKJ5q1gZ-9w/TzMSKhioMHI/AAAAAAAAAFQ/Br4eifkfw4c/s320/surf1.jpg)
 
 So that month we were spending every night packing to meet all of these orders. Our back room was getting full. We needed a lot of room to store the fabric and elastic, store the shorts and store all of their files. A fair chunk of those early orders was through word of mouth only. Word of mouth was a key thing for that [2009] year. 
 
@@ -75,7 +76,7 @@ I don’t know if that gets us any real sales.
 
 ####A typical day at a Swim Event
 We only sponsor the open water swim events a few weekends in the year, four or five of them. Early in the morning we load up the car, tables, shorts, deck chairs, suncream and food. This year we have the B’totties flag which has been a real winner - a massive winner. Then we drive.
-
+![](http://2.bp.blogspot.com/-td4dSK4Mgq8/TzMSXvBbTcI/AAAAAAAAAFY/WTv37ZD6sns/s320/Main+Kids+page.jpg)
 If there is an MC we go and give him a pair, make friends with him, and then give him a script about B’totties. [We] then try to 'get in' with as many people as we can. As soon as [the MC] mentions us or reads our script we start going crazy so people know that he is talking about us. There is a cafe on the street which is where all of the people go and is very well known in Point Lonsdale. All day it is chockers, even more-so when the swim event is on. This year we went in and got the waitresses, all the girls, to wear B’totties all day. That is the key. For people to be seen in them.
 
 And when people buy them we encourage them to put them on right then. Because as soon as people see other people wearing them, they look around to find where they can get some. It just spreads like wildfire. So we put out the call before hand to everyone that has a pair to come down and wear their B’totties, that is the key to a successful day on the beach. 
@@ -84,7 +85,7 @@ The kids range is new last summer, that one has gone really, really well. My mum
 
 ####What didn’t work out so well
 We wear them whenever possible. We did this massive B’totties amazing race at fed square. Everyone had to wear B’totties and a white top . They were given clues and had to run around the whole city. We lined up 30 people all in B’totties. Our parents even formed a team of four but the younger ones won the race. I got a text saying, “I just saw 30 people running past all wearing B'totties in the middle of the city,” from a colleague. 
-
+![](http://2.bp.blogspot.com/-jzbYlbIvRQg/TzMShSFgseI/AAAAAAAAAFk/ebMrdKwzkog/s320/amazing.JPG)
 Then we got a photo with everyone all lined up with their bums to the camera and their hands in the air. We tried to send that story around but it didn’t pick up, we thought MX might but it didn’t really take.
 
 Some swim events don’t work, like the Melbourne swim didn’t work. We have tried putting in a lot of money to be a sponsor for some swim events and not sold a single pair of shorts. 
