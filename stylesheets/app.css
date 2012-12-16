@@ -53,10 +53,27 @@ h1 small {
 
 img.author {
   border-radius: 50%;
+  margin: 0px;
   margin-bottom: 10px;
+  box-shadow: none;
+  padding: 0;
+  border: none;
 }
+
 article {
   margin-bottom: 100px;
+}
+article p {
+  color: #444;
+}
+article img {
+  float: right;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #cccccc;
+  padding: 5px;
+  box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
 }
 
 /* -----------------------------------------

@@ -1,7 +1,7 @@
 ---
 title: "B'totties - How did two friends make thousands of sales without a storefront"
 abstract: "Lucy Simms and Amanda Cordner are co-founders of B’totties, selling shorts that encapsulate the summer spirit of fun and frivolity all year round. I met with them both in a quiet-ish corner of a bar on Southbank, Melbourne to learn about how they quickly grew their company to reach thousands of sales."
-image: "http://3.bp.blogspot.com/-a3sChCuYctk/TzMSJVc9AkI/AAAAAAAAAFI/m4kEfZDwycM/s1600/life+saver.jpg"
+image: "http://3.bp.blogspot.com/-a3sChCuYctk/TzMSJVc9AkI/AAAAAAAAAFI/m4kEfZDwycM/s320/life+saver.jpg"
 published: true
 author: jervis
 comments: true

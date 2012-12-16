@@ -8,11 +8,7 @@ layout: default
 
     {% if page.image == '' or page.image contains 'example.com' %}
     {% else %}
-        <div class="row">
-            <div class="six columns">
-                <img src="{{page.image}}" />
-            </div>
-        </div>
+        <img src="{{page.image}}" />
     {% endif %}
     {{content}}
   </article> 
