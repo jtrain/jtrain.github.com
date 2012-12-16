@@ -22,13 +22,13 @@ Every quarter the Australian Tax Office mails through a Business Activity Statem
 Well, except every quarter I forget that one section of the report isn't pre-filled and I need to enter those numbers manually. What ensues is probably a familiar story for you - it takes me a 2 hour journey to discover:
 
 1. A section of the form hasn't been pre-filled.
-I'm staring at this report thinking - that entire section is filled with zeros, that can't be right!
+*I'm staring at this report thinking - that entire section is filled with zeros, that can't be right!*
 2. There isn't a setting to get those numbers to be automatically pre-filled
-I use the accounting help system, which is very good and explains that I will need to enter those numbers myself.
+*I use the accounting help system, which is very good and explains that I will need to enter those numbers myself.*
 3. There is another report I can run to get the numbers I need
-I find the report that I need and double check its numbers.
+*I find the report that I need and double check its numbers.*
 4. I did this same dance last quarter
-Task finished and feeling frustrated I have this strange sensation they call deja vu. I realise that this same thing happened last quarter. 
+*Task finished and feeling frustrated I have this strange sensation they call deja vu. I realise that this same thing happened last quarter. *
 
 ####Why can't I document my steps?
 Why don't we all write down in a blog or Word document somewhere the problems we have and how they were resolved. Call it a lessons learned log - but I am sure 200 other business owners waste time on the exact same problems.
