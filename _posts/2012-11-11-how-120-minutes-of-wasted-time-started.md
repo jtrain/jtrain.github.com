@@ -1,8 +1,8 @@
 ---
-title: ""
-abstract: ""
-image: "http://www.example.com/images/image.jpg"
-published: false
+title: "How 120 minutes of wasted time started a company"
+abstract: "My quarterly mail from the tax man puts me in a bad mood. Not because it means that the bank balance will soon be reduced. Tax mail means more paper work."
+image: "http://4.bp.blogspot.com/-o9R0L_hED6M/Tw0izhDNOyI/AAAAAAAAAA0/xUC4gOB3VhE/s320/IMAG0304.jpg"
+published: true
 author: jervis
 comments: true
 layout: post
