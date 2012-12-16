@@ -29,6 +29,22 @@
     color: #2BA6CB;
 }
 
+body {
+  background: #FFFFF8;
+}
+
+h1 small {
+  display: block;
+  line-height: 1.2;
+}
+
+#content {
+  background: #fff;
+  border: 1px solid #d4d4cb;
+  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
+  border-radius: 1px;
+  padding-bottom: 10px;
+}
 /* -----------------------------------------
    Page Name 1
 ----------------------------------------- */
