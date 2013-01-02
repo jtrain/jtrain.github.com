@@ -1,7 +1,7 @@
 ---
 title: "Record Your Own Landing Page Video Without Expensive Equipment"
 abstract: "If you've ever wanted to create your own video, without expensive equipment **this post is for you**. I'll show you exactly how I created my own landing page video. It took less than a day and I used as much freely available information as possible."
-image: "http://www.example.com/images/image.jpg"
+image: "https://lh3.googleusercontent.com/-gI7mOG9Rprw/UOPJCMtquMI/AAAAAAAAAOg/n5ngsphHljs/s830/DmUGP.jpg"
 published: false
 author: jervis
 comments: true
@@ -73,6 +73,6 @@ I drew one picture for each important part of my script. This took the most time
 Each picture was made from up to 7 layers. I used [screenflow](https://itunes.apple.com/us/app/screenflow-4/id573279886?mt=12) ~$100 to record my desktop (and to later edit the video). The process for recording a picture was simple. I'd set up screenflow to record the picture, then progressively *show* the hidden layers in my picture (up to 7 layers in total). It doesn't matter if you get the timing wrong. They are just static pictures, so you can edit the length of time per picture later on. 
 
 #### Edit the video
-Now that you've written the script and drawn the pictures, you can easily record your own voice (or hire someone on [fiverr.com](fiverr.com) for $5) reading out the script. Try to bring some life to your voice and **emphasise** different words like you would when telling an exciting story. **Warning** I'm not good at reading like that. It was something I found very difficult to do, but I gave it my best for the video.
+Now that you've written the script and drawn the pictures, you can easily record your own voice (or hire someone on [fiverr.com](http://fiverr.com/categories/music-audio/voice-over-narration) for $5) reading out the script. Try to bring some life to your voice and **emphasise** different words like you would when telling an exciting story. **Warning** I'm not good at reading like that. It was something I found very difficult to do, but I gave it my best for the video.
 
 Your screenflow app should have your audio and video together. While editing, keep in mind that it is important to keep the video short (~60 seconds) and interesting. That might mean eliminating 2 second pauses. Watch the hipmunk video again, you'll notice that the timing is tight throughout so there aren't any strange 1 second pauses between sentences.
