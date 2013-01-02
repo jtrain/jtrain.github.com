@@ -12,7 +12,7 @@ categories:
 
 ---
 
-You are desiging a landing page for your new product. The layout is taken care of - you've purchased a template on [themeforest](http://themeforest.net/). You're copy is looking really sharp because of the advice you read on [copyhackers](http://copyhackers.com/). Now all you need to do is fill in that blank space on the right. 
+You are designing a landing page for your new product. The layout is taken care of - you've purchased a template on [themeforest](http://themeforest.net/). You're copy is looking really sharp because of the advice you read on [copyhackers](http://copyhackers.com/). Now all you need to do is fill in that blank space on the right. 
 
 Should you have a product screenshot, some stock photography or a video? According to some [studies](http://unbounce.com/landing-page-articles/the-benefits-of-using-video-on-landing-pages/) a video on your landing page can increase conversions up to 80%. And yet - **I've been reluctant to create videos** in the past. Here are some of my reasons:
 
@@ -56,12 +56,12 @@ The best piece of advice I got from Miguel was to rank every single sentence in 
 - simple (speaks about the video's single core idea)
 - unexpected (people enjoy offbeat things sometimes)
 - concrete (Talk about a specific example, rather than generic statement)
-- credibility (Is this statement believeable?)
-- emotional (tied into the video's single core idea should be a believeable story)
+- credibility (Is this statement believable?)
+- emotional (tied into the video's single core idea should be a believable story)
 - story (does this sentence further the central story?)
 - smile (does this sentence make you smile?)
 
-The total score that sentence could have gotten is 7 if it met **all** of the criteria. It could have gotten a **0** if it met **none** of the critera.
+The total score that sentence could have gotten is 7 if it met **all** of the criteria. It could have gotten a **0** if it met **none** of the criteria.
 
 The aim is to get high scores for each sentence (getting a 4 is a good score). If too many of your sentences are getting 1 and 2s then it is time to re-write parts of script.
 
@@ -73,6 +73,6 @@ I drew one picture for each important part of my script. This took the most time
 Each picture was made from up to 7 layers. I used [screenflow](https://itunes.apple.com/us/app/screenflow-4/id573279886?mt=12) ~$100 to record my desktop (and to later edit the video). The process for recording a picture was simple. I'd set up screenflow to record the picture, then progressively *show* the hidden layers in my picture (up to 7 layers in total). It doesn't matter if you get the timing wrong. They are just static pictures, so you can edit the length of time per picture later on. 
 
 #### Edit the video
-Now that you've written the script and drawn the pictures, you can easily record your own voice (or hire someone on [fiverr.com](fiverr.com) for $5) reading out the script. Try to bring some life to your voice and **emphasis** different words like you would when telling an exciting story. **Warning** I'm not good at reading like that, though I gave it my best for the video.
+Now that you've written the script and drawn the pictures, you can easily record your own voice (or hire someone on [fiverr.com](fiverr.com) for $5) reading out the script. Try to bring some life to your voice and **emphasise** different words like you would when telling an exciting story. **Warning** I'm not good at reading like that. It was something I found very difficult to do, but I gave it my best for the video.
 
 Your screenflow app should have your audio and video together. While editing, keep in mind that it is important to keep the video short (~60 seconds) and interesting. That might mean eliminating 2 second pauses. Watch the hipmunk video again, you'll notice that the timing is tight throughout so there aren't any strange 1 second pauses between sentences.
