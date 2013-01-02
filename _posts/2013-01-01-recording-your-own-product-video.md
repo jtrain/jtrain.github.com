@@ -33,6 +33,8 @@ To make your own video, you'll need to follow these steps:
  - Editing
 
 I'll cover my method for animation in depth in this article. And provide brief explanations for the other topics. 
+
+<iframe src="http://fast.wistia.com/embed/iframe/tnoxxadamk?controlsVisibleOnLoad=true&version=v1&videoHeight=421&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" width="640" height="421"></iframe>
  
 #### First create the script
 
