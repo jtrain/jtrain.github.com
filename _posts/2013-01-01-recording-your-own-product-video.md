@@ -1,7 +1,7 @@
 ---
 title: "Record Your Own Landing Page Video Without Expensive Equipment"
 abstract: "If you've ever wanted to create your own video, without expensive equipment **this post is for you**. I'll show you exactly how I created my own landing page video. It took less than a day and I used as much freely available information as possible."
-image: "https://lh3.googleusercontent.com/-gI7mOG9Rprw/UOPJCMtquMI/AAAAAAAAAOg/n5ngsphHljs/s320/DmUGP.jpg"
+image: "https://lh4.googleusercontent.com/-pO9A_kyVZBI/UOPKn_FKSeI/AAAAAAAAAPE/rExLxrWh4kI/s320/rU0mB.jpg"
 published: true
 author: jervis
 comments: true
