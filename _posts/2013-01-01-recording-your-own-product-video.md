@@ -79,7 +79,7 @@ Your screenflow app should have your audio and video together. While editing, ke
 
 #### Put it together, make your own product video
 
-Go on, try it out. **Make your own product video**! Send me a link so I can see what you've made. All you need to to is:
+Go on, try it out. **Make your own product video**! Send me a link so I can see what you've made. All you need to do is:
 
 1. Write the script
 2. Draw the animation (or use a powerpoint presentation if you aren't good at drawing)
