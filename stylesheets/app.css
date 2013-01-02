@@ -66,6 +66,11 @@ article {
 article p, article ul {
   color: #444;
 }
+
+article ul {
+  list-style-position: inside;
+}
+
 article img {
   float: right;
   margin-left: 20px;
