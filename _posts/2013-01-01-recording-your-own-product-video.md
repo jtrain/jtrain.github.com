@@ -76,3 +76,15 @@ Each picture was made from up to 7 layers. I used [screenflow](https://itunes.ap
 Now that you've written the script and drawn the pictures, you can easily record your own voice (or hire someone on [fiverr.com](http://fiverr.com/categories/music-audio/voice-over-narration) for $5) reading out the script. Try to bring some life to your voice and **emphasise** different words like you would when telling an exciting story. **Warning** I'm not good at reading like that. It was something I found very difficult to do, but I gave it my best for the video.
 
 Your screenflow app should have your audio and video together. While editing, keep in mind that it is important to keep the video short (~60 seconds) and interesting. That might mean eliminating 2 second pauses. Watch the hipmunk video again, you'll notice that the timing is tight throughout so there aren't any strange 1 second pauses between sentences.
+
+#### Put it together, make your own product video
+
+Go on, try it out. **Make your own product video**! Send me a link so I can see what you've made. All you need to to is:
+
+1. Write the script
+2. Draw the animation (or use a powerpoint presentation if you aren't good at drawing)
+3. Record your desktop as you flick through each slide or picture
+4. Record your own voice
+5. Edit in screenflow (or use camtasia if you are on windows)
+
+The total investment should be about $100 (for Screenflow) and 6 hours of your own time.
