@@ -51,3 +51,15 @@ Having saved some time by avoiding work. Don't come into the office. If you used
 Anyone can avoid work, its pretty easy to do. Sometimes we avoid important work by doing other unnecessary work. Your measurements will form a baseline for you to decide what to spend your time on.
 
 You have taken the low hanging fruit: **Unnecessary work**. Avoiding work alone will not put your business on autopilot. Coming up, we'll be addressing some serious auto-pilot strategies with practical how-to advice. [Don't miss the next post](http://eepurl.com/s2Unj) in the series on "Serious Strategies for Putting your business on Auto Pilot"
+
+#### Put it together, make your own product video
+
+Go on, try it out. **Make your own product video**! Send me a link so I can see what you've made. All you need to to is:
+
+1. Write the script
+2. Draw the animation (or use a powerpoint presentation if you aren't good at drawing)
+3. Record your desktop as you flick through each slide or picture
+4. Record your own voice
+5. Edit in screenflow (or use camtasia if you are on windows)
+
+The total investment should be about $100 (for Screenflow) and 6 hours of your own time.
