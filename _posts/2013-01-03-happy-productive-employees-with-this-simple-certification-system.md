@@ -8,7 +8,7 @@ Nick says that an employee that follows his certification system not only see a 
 
 So how does Nick Sarillo implement his certification system? And how can you use it to develop employees that are passionate about your company?"
 
-image: "http://www.example.com/images/image.jpg"
+image: "https://lh3.googleusercontent.com/-JGRMbkTS9nw/UOUh_LIrrlI/AAAAAAAAAPU/j2RhLiXu7bI/s320/certification.png"
 published: false
 author: jervis
 comments: true
