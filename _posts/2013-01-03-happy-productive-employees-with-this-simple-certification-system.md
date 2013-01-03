@@ -19,14 +19,13 @@ categories:
 
 ---
 
-
 [Nick Sarillo](
 http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/
 ) uses this certification system to develop enthusiastic well trained employees that stick around the company for a long time. 
 
 Nick says that an employee that follows his certification system not only see a career path for themselves but they: 
 
-> [..] of course [are] more valuable [..] to the company as well.
+> \[..\] of course \[are\] more valuable \[..\] to the company as well.
 
 So how does Nick Sarillo implement his certification system? And how can you use it to develop employees that are passionate about your company?
 
@@ -93,7 +92,3 @@ How can you use the key steps:
 to supercharge your team? Have you got an interesting system? Let us know in the comments.
 
 Nick was interviewed at mixergy http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/
-
-
-
-
