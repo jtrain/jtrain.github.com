@@ -4,7 +4,7 @@ abstract: "Nick Sarillo uses this certification system to develop enthusiastic w
 
 Nick says that an employee that follows his certification system not only see a career path for themselves but they: 
 
-> [..] of course [are] more valuable [..] to the company as well.
+[..] of course [are] more valuable [..] to the company as well.
 
 So how does Nick Sarillo implement his certification system? And how can you use it to develop employees that are passionate about your company?"
 
