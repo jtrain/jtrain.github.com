@@ -1,11 +1,6 @@
 ---
 title: "How to Have Productive Employees with a Simple Certification System"
 abstract: "Nick Sarillo uses this certification system to develop enthusiastic well trained employees that stick around the company for a long time. 
-
-Nick says that an employee that follows his certification system not only see a career path for themselves but they: 
-
-[..] of course [are] more valuable [..] to the company as well.
-
 So how does Nick Sarillo implement his certification system? And how can you use it to develop employees that are passionate about your company?"
 
 image: "https://lh3.googleusercontent.com/-JGRMbkTS9nw/UOUh_LIrrlI/AAAAAAAAAPU/j2RhLiXu7bI/s320/certification.png"
