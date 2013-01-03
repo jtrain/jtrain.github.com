@@ -11,7 +11,7 @@ layout: default
     <div class="row">
       <div class="six columns">
         {% if post.abstract %}
-          <p>{{post.abstract}}</p>
+          <p>{{post.abstract | markdownify }}</p>
         {% else %}
           {{post.content}}
         {% endif %}
