@@ -20,9 +20,7 @@ categories:
 ---
 
 
-http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/
-
-Nick Sarillo uses this certification system to develop enthusiastic well trained employees that stick around the company for a long time. 
+Nick Sarillo [1] uses this certification system to develop enthusiastic well trained employees that stick around the company for a long time. 
 
 Nick says that an employee that follows his certification system not only see a career path for themselves but they: 
 
@@ -91,6 +89,8 @@ How can you use the key steps:
 4. Reward
 
 to supercharge your team? Have you got an interesting system? Let us know in the comments.
+
+[1] Nick was interviewed at mixergy http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/
 
 
 
