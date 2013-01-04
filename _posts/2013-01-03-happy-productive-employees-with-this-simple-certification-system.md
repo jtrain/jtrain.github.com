@@ -95,4 +95,4 @@ How can you use the key steps:
 
 to supercharge your team? Have you got an interesting system? Let us know in the comments.
 
-Nick was interviewed at mixergy [http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/](http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/)
+Watch Nick's interview on mixergy (the home of the ambitious startup) [http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/](http://mixergy.com/nick-sarillo-nicks-pizza-and-pub-interview/)
