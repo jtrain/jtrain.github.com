@@ -2,7 +2,7 @@
 title: "Automating your social - Tweet and Facebook at the same time"
 abstract: "Use the tools that the pros use to post to LinkedIn, Facebook and Twitter all at the same time. Posting things to each individually takes up **your** client work time. Stop wasting time logging into Twitter, Facebook and LinkedIn. Why not use all three at once? Write once, post everywhere.
 "
-image: "http://www.example.com/images/image.jpg"
+image: "https://lh6.googleusercontent.com/-jNgClMlSdSE/UOZieQgI61I/AAAAAAAAAPk/4E6Bkb7IF18/s320/fb.png"
 published: false
 author: jervis
 comments: true
