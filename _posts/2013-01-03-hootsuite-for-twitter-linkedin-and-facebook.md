@@ -13,7 +13,7 @@ categories:
 
 ---
 
-Use the tools that the pros use to post to LinkedIn, Facebook and Twitter all at the same time. Posting things to each individually takes up **your** client work time. Stop wasting time logging into Twitter, Facebook and LinkedIn. Why not use all three at once? Write once, post everywhere.
+Use the tools that the pros use to post to LinkedIn, Facebook and Twitter **all at the same time**. Posting things to each individually takes up **your** client work time. Stop wasting time logging into Twitter, Facebook and LinkedIn. Why not use all three at once? Write once, post everywhere.
 
 #### Introducing Hootsuite
 
