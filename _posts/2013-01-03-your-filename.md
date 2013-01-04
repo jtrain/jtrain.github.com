@@ -1,6 +1,7 @@
 ---
 title: "Automating your social - Tweet and Facebook at the same time"
-abstract: "How to do you manage your LinkedIn, Twitter and Facebook pages? Posting things to each individually is taking up your deal-making and client work time. And logging into each to monitor what people are saying is also a waste. Why not use all three at once? Write once, post everywhere."
+abstract: "Use the tools that the pros use to post to LinkedIn, Facebook and Twitter all at the same time. Posting things to each individually takes up **your** client work time. Stop wasting time logging into Twitter, Facebook and LinkedIn. Why not use all three at once? Write once, post everywhere.
+"
 image: "http://www.example.com/images/image.jpg"
 published: false
 author: jervis
@@ -12,7 +13,7 @@ categories:
 
 ---
 
-How to do you manage your LinkedIn, Twitter and Facebook pages? Posting things to each individually is taking up your deal-making and client work time. And logging into each to monitor what people are saying is also a waste. Why not use all three at once? Write once, post everywhere.
+Use the tools that the pros use to post to LinkedIn, Facebook and Twitter all at the same time. Posting things to each individually takes up **your** client work time. Stop wasting time logging into Twitter, Facebook and LinkedIn. Why not use all three at once? Write once, post everywhere.
 
 #### Introducing Hootsuite
 
