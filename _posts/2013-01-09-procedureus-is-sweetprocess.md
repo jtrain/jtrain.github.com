@@ -2,7 +2,7 @@
 title: "SweetProcess - (was ProcedureUs)"
 abstract: "ProcedureUs has changed it's name. We are now SweetProcess. Find out why"
 image: "http://www.example.com/images/image.jpg"
-published: false
+published: true
 author: jervis
 comments: true
 layout: post
