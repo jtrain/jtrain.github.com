@@ -64,7 +64,7 @@ The best piece of advice I got from Miguel was to rank every single sentence in 
 - story (does this sentence further the central story?)
 - smile (does this sentence make you smile?)
 
-The total score that sentence could have gotten is 7 if it met **all** of the criteria. It could have gotten a **0** if it met **none** of the criteria. Here is the exact [procedure I used to rank my sentences](https://www.procedureus.com/procedures/77/rank-the-sentences-in-your-product-video/)
+The total score that sentence could have gotten is 7 if it met **all** of the criteria. It could have gotten a **0** if it met **none** of the criteria. Here is the exact [procedure I used to rank my sentences](https://www.SweetProcess.com/procedures/77/rank-the-sentences-in-your-product-video/)
 
 The aim is to get high scores for each sentence (getting a 4 is a good score). If too many of your sentences are getting 1 and 2s then it is time to re-write parts of script.
 
