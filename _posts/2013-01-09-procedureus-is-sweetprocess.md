@@ -1,5 +1,5 @@
 ---
-title: "SweetProcess - (was ProcedureUs)"
+title: "SweetProcess - was ProcedureUs"
 abstract: "ProcedureUs has changed it's name. We are now SweetProcess. Find out why and how to name your business"
 image: "http://www.example.com/images/image.jpg"
 published: true
