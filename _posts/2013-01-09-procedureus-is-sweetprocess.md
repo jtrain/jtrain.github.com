@@ -1,6 +1,6 @@
 ---
 title: "SweetProcess - was ProcedureUs"
-abstract: "ProcedureUs has changed names. We are now SweetProcess. Find out why **and** how to name your business"
+abstract: "ProcedureUs has changed names. We are now SweetProcess. Find out the right way to name your business **and** why we changed ours"
 image: "http://www.example.com/images/image.jpg"
 published: true
 author: jervis
