@@ -26,7 +26,7 @@ Paul Graham talks about the [importance of a business name](http://aux.messymatt
 
 There is good news though:
 
-> The good news is, the feeling that all the good names are taken is an illusion. It must be, because I felt it in 1995. Squatters have registered huge numbers of names, certainly, but they can’t register names as fast as 26^n grows.
+> The good news is, the feeling that all the good names are taken is an illusion. It must be, because I felt it in 1995. Squatters have registered huge numbers of names, certainly, but they can’t register names as fast as 26 to the power of n grows.
 
 Paul is saying that there are just **so many different combinations of names**, that while you may not be able to register `cool.com`, it doesn't matter because there are plenty of other names out there that actually represent what you do.
 
